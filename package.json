@@ -1,0 +1,20 @@
+{
+  "name": "ri4-modulo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sette0o0/RI4-Modulo.git"
+},
+  "author": "anajrubim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anajrubim/RI4-Modulo/issues"
+  },
+  "homepage": "https://github.com/anajrubim/RI4-Modulo#readme"
+}
